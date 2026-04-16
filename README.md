@@ -2,7 +2,7 @@
 
 ## Group Members:
 
-1. Donovan D'Silva - 	[repo]()
+1. Donovan D'Silva - 	[repo](https://github.com/donmelsil/MIST-4610-Group-Project-2---Group-7)
 2. Noah Hammond	-[repo]()
 3. Chase Lin - [repo](https://github.com/cinnamotz/mist4610gp2)
 4. Krithin Lokasani	- [repo]()
