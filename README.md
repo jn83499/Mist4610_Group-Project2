@@ -5,7 +5,7 @@
 1. Donovan D'Silva - 	[repo](https://github.com/donmelsil/MIST-4610-Group-Project-2---Group-7)
 2. Noah Hammond	-[repo](https://github.com/NoahHammond1/Group-Project2)
 3. Chase Lin - [repo](https://github.com/cinnamotz/mist4610gp2)
-4. Krithin Lokasani	- [repo]()
+4. Krithin Lokasani	- [repo](https://github.com/lokasanikrithin-source/MIST4610GP2)
 5. Jessica Ngo -[repo](https://github.com/jn83499/Mist4610_Group-Project2)
 
 ## Dataset and Description
@@ -101,8 +101,20 @@ All other bias categories (Anti-Muslim, Anti-Hispanic, Anti-LGBT mixed group, et
 Overall arrest gap (Images 4, 5 & 6): Across Brooklyn North, Brooklyn South, and Manhattan South, roughly 60–70% of complaints do not result in an arrest — a consistent and concerning enforcement gap. Brooklyn South has the highest complaint volume (~575 total) but a similar arrest proportion to the others.
 By bias motive, the picture diverges markedly:
 
-Anti-Male Homosexual (Gay) crimes have the highest arrest rates across all three boroughs (54–57%). This likely reflects the nature of these incidents — they more often involve direct physical confrontation in identifiable settings, making perpetrators easier to apprehend.
-Anti-Black crimes fall in the middle range (38–46%), varying by borough.
-Anti-Jewish crimes carry the lowest arrest rates (29–40% depending on borough), despite being the overwhelmingly most frequent category. This paradox almost certainly reflects the offense type composition — Anti-Jewish hate crimes disproportionately involve vandalism, graffiti, and verbal harassment, which are inherently harder to prosecute than physical assaults where a perpetrator is present and witnesses exist.
+- Anti-Male Homosexual (Gay) crimes have the highest arrest rates across all three boroughs (54–57%). This likely reflects the nature of these incidents — they more often involve direct physical confrontation in identifiable settings, making perpetrators easier to apprehend.
+- Anti-Black crimes fall in the middle range (38–46%), varying by borough.
+- Anti-Jewish crimes carry the lowest arrest rates (29–40% depending on borough), despite being the overwhelmingly most frequent category. This paradox almost certainly reflects the offense type composition — Anti-Jewish hate crimes disproportionately involve vandalism, graffiti, and verbal harassment, which are inherently harder to prosecute than physical assaults where a perpetrator is present and witnesses exist.
 
 Policy implication: The NYPD's Hate Crime Task Force faces its greatest challenge precisely where the volume is highest. Improving arrest rates for Anti-Jewish crimes likely requires enhanced surveillance of known vandalism hotspots, better forensic follow-through on graffiti cases, and community-based tip infrastructure — rather than simply increased patrol presence.
+
+## Tableau Packaged Workbook
+
+![Tableau Workbook](GroupProject2.twbx)
+
+### Additional Tableau Screenshots
+![Data Set 1](Screenshot1.png)
+![Data Set 2](Screenshot2.png)
+![Question 1 Dashboard](Screenshot3.png)
+![Data Set 3](Screenshot4.png)
+![Data Set 4](Screenshot5.png)
+![Question 2 Dashboard](Screenshot6.png)
